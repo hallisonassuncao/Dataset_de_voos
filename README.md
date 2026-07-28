@@ -2,7 +2,7 @@
 
 Análise exploratória de um dataset sintético de voos, com tratamento de dados, criação de variáveis derivadas e análise de correlação entre atrasos.
 
-**Curso:** IA Industrial - SENAI EAD
+**Curso:** IA Industrial - SENAI
 
 ## Dataset
 
