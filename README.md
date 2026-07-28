@@ -4,7 +4,6 @@ Análise exploratória de um dataset sintético de voos, com tratamento de dados
 
 ## Dataset
 
-- **Arquivo:** `Dataset_sint_tico_de_voos.csv`
 - **Registros:** 100 voos
 - **Colunas originais:** fl_date, op_unique_carrier, tail_num, origin, dest, crs_dep_time, dep_delay, arr_delay, distance
 
@@ -34,8 +33,6 @@ Análise exploratória de um dataset sintético de voos, com tratamento de dados
 | LAX | 12.6 |
 
 **Correlação entre variáveis:**
-
-![Mapa de Calor da Correlação](images/mapa_calor_correlacao.png)
 
 - `arr_delay` e `Atraso_superior_15min` apresentam forte correlação (0.80)
 - `Atraso_absoluto` tem correlação moderada com `Atraso_superior_15min` (0.45)
