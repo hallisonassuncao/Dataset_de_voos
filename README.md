@@ -28,6 +28,7 @@ Análise exploratória de um dataset sintético de voos, com tratamento de dados
 ## Principais Resultados
 
 **Aeroportos com maior atraso médio na partida:**
+
 | Aeroporto | Atraso médio (min) |
 |---|---|
 | BSB | 19.2 |
@@ -36,6 +37,7 @@ Análise exploratória de um dataset sintético de voos, com tratamento de dados
 | LAX | 12.6 |
 
 **Correlação entre variáveis:**
+
 - `arr_delay` e `Atraso_superior_15min` apresentam forte correlação (0.80)
 - `Atraso_absoluto` tem correlação moderada com `Atraso_superior_15min` (0.45)
 - `distance`, `Mes` e `Dia_da_Semana` mostram correlação fraca com os atrasos
@@ -45,7 +47,7 @@ Análise exploratória de um dataset sintético de voos, com tratamento de dados
 - Python (Pandas, NumPy, Seaborn, Matplotlib)
 - Jupyter Notebook (VS Code)
 
-## Autor:**
+## Autor
 
 Hallison Assunção
 
