@@ -45,6 +45,9 @@ Análise exploratória de um dataset sintético de voos, com tratamento de dados
 - Python (Pandas, NumPy, Seaborn, Matplotlib)
 - Jupyter Notebook (VS Code)
 
+## Autor:
+
+Hallison Assunção
 
 ## Contexto Acadêmico
 
