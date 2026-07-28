@@ -48,4 +48,4 @@ Análise exploratória de um dataset sintético de voos, com tratamento de dados
 
 ## Contexto Acadêmico
 
-Atividade desenvolvida como parte do curso **IA Industrial - SENAI EAD**.
+Atividade desenvolvida como parte do curso **IA Industrial - SENAI-DF**.
