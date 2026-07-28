@@ -1,7 +1,8 @@
-
 # Análise de Dataset de Voos
 
 Análise exploratória de um dataset sintético de voos, com tratamento de dados, criação de variáveis derivadas e análise de correlação entre atrasos.
+
+**Curso:** IA Industrial - SENAI EAD
 
 ## Dataset
 
@@ -44,3 +45,10 @@ Análise exploratória de um dataset sintético de voos, com tratamento de dados
 - Python (Pandas, NumPy, Seaborn, Matplotlib)
 - Jupyter Notebook (VS Code)
 
+## Autor
+
+Hallison Assunção
+
+## Contexto Acadêmico
+
+Atividade desenvolvida como parte do curso **IA Industrial - SENAI EAD**.
